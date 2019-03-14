@@ -1,6 +1,7 @@
 # checkout_by_title
-datamix社における課題：seattleのcheckout_by_title(月ごと・タイトルごとのレンタル履歴)を利用した検討  
-
+datamix / Seattle / heckout_by_titleのdataset(月ごと・タイトルごとのレンタル履歴)を利用した検討  
+https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6  
+  
 ■ビジネス上の課題  
 翌月のレンタルされる商品に対し、最小の在庫量（展示スペース）としたい  
 ■分析課題は何か  
