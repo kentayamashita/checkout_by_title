@@ -1,0 +1,2 @@
+# checkout_by_title
+datamix社における課題：seattleのcheckout_by_title(月ごと・タイトルごとのレンタル履歴)を利用した検討
